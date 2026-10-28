@@ -1,0 +1,474 @@
+[
+  {
+    "claim_id": "01",
+    "article_title": "Central Valley groundwater pollution",
+    "claim_text": "In some areas, groundwater recharge has not been up to date or being monitored closely, which is contributing to the declining water levels and water quality in the area.",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "01",
+        "source_title": "Study offers on reducing nitrate contamination from groundwater recharge",
+        "source_url": "https://caes.ucdavis.edu/news/study-offers-insights-reducing-nitrate-contamination-groundwater-recharge",
+        "source_citation": "Hsu, Michael (March 22, 2023). \"Study offers insights on reducing nitrate contamination from groundwater recharge | College of Agricultural and Environmental Sciences\". caes.ucdavis.edu. Retrieved April 30, 2026.",
+        "source_type": "News article",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-27",
+        "evidence": [
+          {
+            "excerpt": "NO SUPPORTING PASSAGE FOUND",
+            "location": "Full text reviewed; no supporting passage identified"
+          }
+        ],
+        "verdict": "Not supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The source establishes the effects of nitrate contamination and describes measures to reduce it. However, it does not establish whether groundwater recharge is being adequately monitored or whether inadequate monitoring contributes to declining groundwater levels and water quality in the area."
+      }
+    ]
+  },
+  {
+    "claim_id": "02",
+    "article_title": "Central Valley groundwater pollution",
+    "claim_text": "Manure produces around 6.5 million tons of nitrogen, which, when not handled properly or with improper drainage methods, can contaminate soil and water sources.",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "02",
+        "source_title": "Nitrate fact sheet California Department of Public Health",
+        "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/nitrate/fact_sheet_nitrate_may2014_update.pdf",
+        "source_citation": "Nitrate Fact Sheet (PDF). waterboards.ca.gov. May 2014. Retrieved October 15, 2025.",
+        "source_type": "Fact sheet",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-27",
+        "evidence": [
+          {
+            "excerpt": "NO SUPPORTING PASSAGE FOUND",
+            "location": "Full text reviewed; no supporting passage identified"
+          }
+        ],
+        "verdict": "Not supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The source identifies confined animal feeding operations and fertilizer use as sources associated with nitrate contamination in groundwater. However, it does not substantiate the claim that manure produces approximately 6.5 million tons of nitrogen or establish the specific contamination mechanism described in the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "03",
+    "article_title": "Surrogacy in India",
+    "claim_text": "Clinics and agencies began offering full “surrogacy packages” to both Indian and foreign clients, and surrogacy was promoted as part of a wider medical tourism strategy",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "03",
+        "source_title": "The advantages and disadvantages of altruistic and commercial surrogacy in India",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
+        "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
+        "source_type": "Journal article",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-27",
+        "evidence": [
+          {
+            "excerpt": "with many IVF clinics offering surrogacy programs throughout India",
+            "location": "Background, paragraph 3"
+          },
+          {
+            "excerpt": "Both the ICMR’s guidelines and the ART Bill made provisions granting custody to the intended parents, including foreigners, with the clear intent of promoting surrogacy tourism.",
+            "location": "Background, paragraph 3"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Overstatement",
+          "Unsupported scope or population"
+        ],
+        "rationale": "The source confirms that IVF clinics offered surrogacy programs in India and that the ICMR guidelines and draft ART Bill aimed to promote surrogacy tourism. It does not establish \"full packages,\" the role of agencies, or a wider medical tourism strategy. The ART Bill was never enacted, so it shows intent, not implementation."
+      }
+    ]
+  },
+  {
+    "claim_id": "04",
+    "article_title": "Surrogacy in India",
+    "claim_text": "Estimates by industry groups suggested that surrogacy generated more than US$2 billion annually, with thousands of IVF clinics across the country",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "04",
+        "source_title": "The advantages and disadvantages of altruistic and commercial surrogacy in India",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
+        "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
+        "source_type": "Journal article",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-28",
+        "evidence": [
+          {
+            "excerpt": "The Confederation of Indian Industry predicts that surrogacy generates US$2.3 billion annually [3], with many IVF clinics offering surrogacy programs throughout India.",
+            "location": "Background, paragraph 3"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Unsupported number/statistic"
+        ],
+        "rationale": "The source supports the US$2.3 billion annual estimate, attributed to the Confederation of Indian Industry. It says only that “many” IVF clinics offered surrogacy programs, so “thousands” is not established."
+      }
+    ]
+  },
+  {
+    "claim_id": "05",
+    "article_title": "Surrogacy in India",
+    "claim_text": "Throughout the 2000s and early 2010s, India became a major global destination for transnational commercial surrogacy, attracting heterosexual couples, single intended parents and same-sex couples from abroad.",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "05",
+        "source_title": "The advantages and disadvantages of altruistic and commercial surrogacy in India",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
+        "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
+        "source_type": "Journal article",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-28",
+        "evidence": [
+          {
+            "excerpt": "Comprehensive commercial surrogacy became legal in India in 2002, and many foreigners, including individuals and same-sex couples, sought Indian surrogacy services due to their affordability.",
+            "location": "Abstract, paragraph 1"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Overstatement",
+          "Unsupported scope or population"
+        ],
+        "rationale": "The source supports India’s role as a destination for foreign surrogacy clients following its legalisation in 2002, explicitly mentioning individuals and same-sex couples attracted by affordability. However, it does not establish India’s global prominence, and did not specifically mention heterosexual couples."
+      }
+    ]
+  },
+  {
+    "claim_id": "06",
+    "article_title": "Sharpfin houndshark",
+    "claim_text": "The reproduction of this houndshark is ovoviviparous.",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "06",
+        "source_title": "Triakis acutipinna Kato, 1968",
+        "source_url": "https://www.fishbase.org/summary/Triakis_acutipinna.html#",
+        "source_citation": "Froese, Rainer; Pauly, Daniel (eds.). \"Triakis acutipinna\". FishBase. July 2006 version.",
+        "source_type": "Database",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-25",
+        "evidence": [
+          {
+            "excerpt": "Ovoviviparous, embryos feed solely on yolk.",
+            "location": "Life cycle and mating behavior section"
+          }
+        ],
+        "verdict": "Supported",
+        "failure_type": [],
+        "rationale": "The source explicitly states that the houndshark is ovoviviparous, directly supporting the claim.The claim does not go beyond the evidence provided."
+      }
+    ]
+  },
+  {
+    "claim_id": "07",
+    "article_title": "Sharpfin houndshark",
+    "claim_text": "The sharpfin houndshark is classified as endangered by the IUCN Red List",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "07",
+        "source_title": "Sharpfin houndshark, Triakis acutipinna",
+        "source_url": "https://www.iucnredlist.org/species/39361/124406514",
+        "source_citation": "Cevallos-Garcías, A (2020). \"Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna\".",
+        "source_type": "report",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-25",
+        "evidence": [
+          {
+            "excerpt": "The source displays the species’ conservation status on a scale and explicitly lists its IUCN Red List category as “Endangered” under the global assessment.",
+            "location": "The Red List assessment"
+          }
+        ],
+        "verdict": "Supported",
+        "failure_type": [],
+        "rationale": "The source explicitly classifies the sharpfin houndshark as Endangered on the IUCN Red List, directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "08",
+    "article_title": "Sharpfin houndshark",
+    "claim_text": "The species is likely threatened by incidental capture in coastal fisheries and habitat degradation within its limited range, increasing risk of extinction",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "08",
+        "source_title": "Sharpfin houndshark, Triakis acutipinna",
+        "source_url": "https://www.iucnredlist.org/species/39361/124406514",
+        "source_citation": "Cevallos-Garcías, A (2020). \"Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna\".",
+        "source_type": "report",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-25",
+        "evidence": [
+          {
+            "excerpt": "It is known only from Manabí province, Ecuador in the Southeast Pacific with an estimated extent of occurrence of 4,900–7,163 km². Its habitat and life history are virtually unknown and based on captures it is known to occur at depths of 50–200 m",
+            "location": "Threats and Biological resource use"
+          },
+          {
+            "excerpt": "Small-scale fisheries which catch sharks operate across coastal Ecuador and the Sharpfin Houndshark is reportedly caught very rarely in coastal artisanal demersal gillnet fisheries and the industrial hake demersal longline fishery that operates to a depth of 200 m.",
+            "location": null
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Overstatement"
+        ],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "09",
+    "article_title": "Curly Girl Method",
+    "claim_text": "For example, people started switching to sulfate-free shampoos, since sulfates tend to strip hair of its natural oils.",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "09",
+        "source_title": "Is the curly Girl Method right for your hair? An expert breaks it down",
+        "source_url": "https://www.today.com/shop/curly-girl-method-products-rcna100025",
+        "source_citation": "Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.",
+        "source_type": "News article",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-25",
+        "evidence": [
+          {
+            "excerpt": "For this, Ashley recommends using a sulfate-free shampoo, which won't strip the hair of its natural oils.",
+            "location": "how to achieve the curl girl method section , step 1 - paragraph 1"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Unsupported number/statistic"
+        ],
+        "rationale": "The source supports the rationale: a stylist recommends sulfate-free shampoo because it won’t strip natural oils. It gives no evidence that people switched products or that a trend occurred, so the behavior in the claim is not established."
+      }
+    ]
+  },
+  {
+    "claim_id": "10",
+    "article_title": "Curly Girl Method",
+    "claim_text": "This expanded the reach of the method to younger and more diverse audiences.",
+    "origin": "AI-flagged",
+    "origin_basis": "AI generated",
+    "annotations": [
+      {
+        "annotation_id": "10",
+        "source_title": "Is the curly Girl Method right for your hair? An expert breaks it down",
+        "source_url": "https://www.today.com/shop/curly-girl-method-products-rcna100025",
+        "source_citation": "Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.",
+        "source_type": "News article",
+        "source_access": "Full text",
+        "date_accessed": "2026-10-25",
+        "evidence": [
+          {
+            "excerpt": "And the practice is still popular to this day. The ‘Curly Girl Method’ tag on TikTok has more than 1.3 billion views, with people sharing their successes and favorite products to use",
+            "location": "paragraph 3"
+          }
+        ],
+        "verdict": "Not supported",
+        "failure_type": [
+          "Unsupported number/statistic"
+        ],
+        "rationale": "The cited source supports the method’s continued popularity and high TikTok engagement but provides no evidence of expanded reach, audience demographics, or causation."
+      }
+    ]
+  },
+  {
+    "claim_id": "13",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "14",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "15",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "16",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "17",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "18",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "19",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "20",
+    "article_title": "",
+    "claim_text": "",
+    "origin": "",
+    "origin_basis": "",
+    "annotations": [
+      {
+        "annotation_id": "",
+        "source_title": "",
+        "source_url": "",
+        "source_citation": "",
+        "source_type": "",
+        "source_access": "",
+        "date_accessed": "",
+        "evidence": [],
+        "verdict": "",
+        "failure_type": [],
+        "rationale": ""
+      }
+    ]
+  }
+]

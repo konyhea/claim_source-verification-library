@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Turn the schema CSV (columns: "Field / label", "Definition") into the nested
-schema template JSON.
+schema template JSON, with each field's definition as its value.
 
 Usage:
     uv run python schema_csv_to_json.py annotations.csv annotation.json
@@ -10,6 +10,11 @@ import json
 import sys
 
 import pandas as pd
+
+
+def normalise(name):
+    """'article_title:' / ' source_citation' / 'Rationale\\n' -> clean lowercase key."""
+    return name.strip().rstrip(":").strip().lower()
 
 
 def main():
@@ -22,9 +27,9 @@ def main():
     df.columns = df.columns.str.strip()
     field_col, def_col = df.columns[0], df.columns[1]
 
-    # field name -> definition (names lowercased so "Rationale" == "rationale")
+    # field name -> definition
     d = {
-        row[field_col].strip().lower(): row[def_col].strip()
+        normalise(row[field_col]): row[def_col].strip()
         for _, row in df.iterrows()
         if row[field_col].strip()
     }
@@ -45,6 +50,7 @@ def main():
                 "annotation_id": get("annotation_id"),
                 "source_title": get("source_title"),
                 "source_url": get("source_url"),
+                "source_citation": get("source_citation"),
                 "source_type": get("source_type"),
                 "source_access": get("source_access"),
                 "date_accessed": get("date_accessed"),
