@@ -12,7 +12,7 @@
         "source_url": "https://caes.ucdavis.edu/news/study-offers-insights-reducing-nitrate-contamination-groundwater-recharge",
         "source_citation": "Hsu, Michael (March 22, 2023). \"Study offers insights on reducing nitrate contamination from groundwater recharge | College of Agricultural and Environmental Sciences\". caes.ucdavis.edu. Retrieved April 30, 2026.",
         "source_type": "News article",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-27",
         "evidence": [
           {
@@ -41,7 +41,7 @@
         "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/nitrate/fact_sheet_nitrate_may2014_update.pdf",
         "source_citation": "Nitrate Fact Sheet (PDF). waterboards.ca.gov. May 2014. Retrieved October 15, 2025.",
         "source_type": "Fact sheet",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-27",
         "evidence": [
           {
@@ -70,16 +70,16 @@
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
         "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
         "source_type": "Journal article",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-27",
         "evidence": [
           {
             "excerpt": "with many IVF clinics offering surrogacy programs throughout India",
-            "location": "Background, paragraph 3"
+            "location": "Background, paragrah3"
           },
           {
             "excerpt": "Both the ICMR’s guidelines and the ART Bill made provisions granting custody to the intended parents, including foreigners, with the clear intent of promoting surrogacy tourism.",
-            "location": "Background, paragraph 3"
+            "location": "Background, paragrah3"
           }
         ],
         "verdict": "Partially supported",
@@ -104,12 +104,12 @@
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
         "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
         "source_type": "Journal article",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-28",
         "evidence": [
           {
             "excerpt": "The Confederation of Indian Industry predicts that surrogacy generates US$2.3 billion annually [3], with many IVF clinics offering surrogacy programs throughout India.",
-            "location": "Background, paragraph 3"
+            "location": "Background, paragrah3"
           }
         ],
         "verdict": "Partially supported",
@@ -133,7 +133,7 @@
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
         "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
         "source_type": "Journal article",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-28",
         "evidence": [
           {
@@ -163,7 +163,7 @@
         "source_url": "https://www.fishbase.org/summary/Triakis_acutipinna.html#",
         "source_citation": "Froese, Rainer; Pauly, Daniel (eds.). \"Triakis acutipinna\". FishBase. July 2006 version.",
         "source_type": "Database",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-25",
         "evidence": [
           {
@@ -190,7 +190,7 @@
         "source_url": "https://www.iucnredlist.org/species/39361/124406514",
         "source_citation": "Cevallos-Garcías, A (2020). \"Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna\".",
         "source_type": "report",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-25",
         "evidence": [
           {
@@ -217,7 +217,7 @@
         "source_url": "https://www.iucnredlist.org/species/39361/124406514",
         "source_citation": "Cevallos-Garcías, A (2020). \"Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna\".",
         "source_type": "report",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-25",
         "evidence": [
           {
@@ -250,7 +250,7 @@
         "source_url": "https://www.today.com/shop/curly-girl-method-products-rcna100025",
         "source_citation": "Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.",
         "source_type": "News article",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-25",
         "evidence": [
           {
@@ -279,7 +279,7 @@
         "source_url": "https://www.today.com/shop/curly-girl-method-products-rcna100025",
         "source_citation": "Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.",
         "source_type": "News article",
-        "source_access": "Full text",
+        "source_access": "full access",
         "date_accessed": "2026-10-25",
         "evidence": [
           {
@@ -296,178 +296,335 @@
     ]
   },
   {
-    "claim_id": "13",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "claim_id": "11",
+    "article_title": "Political positions of Donald Trump",
+    "claim_text": "While Trump has repeatedly expressed support for the idea of campaign finance reform he has not outlined specifics of his actual views on campaign-finance regulation.",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
+        "annotation_id": "11",
+        "source_title": "source not accessible",
+        "source_url": "https://www.bloomberg.com/news/articles/2015-08-14/trump-i-love-the-idea-of-campaign-finance-reform-",
+        "source_citation": "Trump: I love the idea of campaign Finance Reform",
+        "source_type": "News article",
+        "source_access": "Paywalled",
+        "date_accessed": "2026-10-29",
         "evidence": [],
-        "verdict": "",
+        "verdict": "Unable to evaluate",
         "failure_type": [],
-        "rationale": ""
+        "rationale": "The cited Bloomberg article is paywalled, and its full text could not be accessed, so it was not possible to check whether it supports the claim. This verdict reflects a limit on access, not a finding about the claim’s accuracy or the source’s reliability."
+      }
+    ]
+  },
+  {
+    "claim_id": "12",
+    "article_title": "Fela Kuti",
+    "claim_text": "He further infuriated the political establishment by implicating ITT Corporation's vice-president, Moshood Abiola, and Obasanjo in the popular 25-minute political screed entitled \"I.T.T. (International Thief-Thief)",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
+    "annotations": [
+      {
+        "annotation_id": "12",
+        "source_title": "Fela Kuti: Chronicle of a life foretold",
+        "source_url": "https://www.thewire.co.uk/in-writing/essays/fela-kuti_chronicle-ofa-life-foretold",
+        "source_citation": "Barrett, Lindsay (September 2011) [March 1998]. \"Fela Kuti: Chronicle of A Life Foretold\". The Wire. No. 169. Retrieved 13 June 2015.",
+        "source_type": "News article",
+        "source_access": "full access",
+        "date_accessed": "2026-10-28",
+        "evidence": [
+          {
+            "excerpt": "It was clear to Fela that the government had been putting pressure on these organisations to undermine his independence",
+            "location": "paragraph 28"
+          },
+          {
+            "excerpt": "One of his most famous songs emerged during this period, \"ITT\" (\"International T'ief T'ief\"), in which he heaped abuse on Chief MKO Abiola who was then 'Vice President for Africa and the Middle East of ITT', owners of the Decca label.",
+            "location": "paragraph 28"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The source supports the song’s title, its attack on Abiola as ITT’s vice-president, and its fame. It does not link the song to Obasanjo, who appears only as one of those who harassed him."
+      }
+    ]
+  },
+  {
+    "claim_id": "13",
+    "article_title": "Women's war",
+    "claim_text": "For the first time, women were appointed to the Native Court system.",
+    "origin": "Organic",
+    "origin_basis": "reviewer",
+    "annotations": [
+      {
+        "annotation_id": "13",
+        "source_title": "Igbo women's war",
+        "source_url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/igbo-womens-war",
+        "source_citation": "\"Igbo Women's War | Encyclopedia.com\". www.encyclopedia.com. Retrieved 2026-04-02.",
+        "source_type": "encyclopedia",
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "The report convinced the government to carry out many administrative reforms, including the abolition of the warrant chief system, a reorganization of the native courts to include women members, and the creation of village-group councils whose decisions were enforced by group courts.",
+            "location": "consequences section, paragraph 2"
+          }
+        ],
+        "verdict": "Supported",
+        "failure_type": [],
+        "rationale": "The source explicitly states that the reorganization of the Native Court system included women as members. It also describes the earlier warrant chief system, which did not include women in the administrative structure. This supports the claim that the appointment of women to the Native Court system represented a change from the previous arrangement."
       }
     ]
   },
   {
     "claim_id": "14",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "British Airways Flight 5390",
+    "claim_text": "He was held in place through the window frame for 20 minutes until the first officer landed at Southampton Airport.",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
+        "annotation_id": "14",
+        "source_title": "ASN Aircraft accident BAC One-Eleven 528FL G-BJRT Didcot.",
+        "source_url": "aviation-safety.net/asndb/326018",
+        "source_citation": "Ranter, Harro. \"ASN Aircraft accident BAC One-Eleven 528FL G-BJRT Didcot\". Aviation Safety Network. Flight Safety Foundation. Archived from the original on 16 July 2019. Retrieved 28 August 2020.",
+        "source_type": "Database",
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "The No 3 steward, who had been working on the cabin side of the door, rushed onto the flight deck and grasped the captain round his waist to hold onto him.",
+            "location": "narrative, paragrah 1"
+          },
+          {
+            "excerpt": ". He held him by the ankles until after the aircraft had landed.",
+            "location": "narrative, paragrah 1"
+          },
+          {
+            "excerpt": "Having verified that there was sufficient runway length available for a landing, the co-pilot manoeuvred the aircraft onto a visual final approach to runway 02 and completed a successful landing and stop on the runway at 07:55 hrs.",
+            "location": "narrative, paragrah 2"
+          }
+        ],
+        "verdict": "Supported",
         "failure_type": [],
-        "rationale": ""
+        "rationale": "The report states that cabin crew grasped the captain, who was partially out of the windscreen aperture, and that a steward held him by the ankles until after landing. It gives the decompression at 07:33 and the landing at Southampton at 07:55, which fits the claimed duration of about 20 minutes. The source does not state the duration directly, and refers to the “co-pilot” rather than the “first officer,” but the claim is otherwise fully consistent with it."
       }
     ]
   },
   {
     "claim_id": "15",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "Airborne radioactivity in Europe in autumn 2017",
+    "claim_text": "The Institute of Radioprotection and Nuclear Safety of France, indicated that the relatively high levels in the beginning of October steadily decreased from 6 October, while no radioactive element was detected after 13 October.",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
+        "annotation_id": "15",
+        "source_title": "Detection of Ruthenium 106 in France and in Europe: Results of IRSN’s investigations",
+        "source_url": "https://web.archive.org/web/20180529225308/http://www.irsn.fr/EN/newsroom/News/Pages/20171109_Detection-of-Ruthenium-106-in-France-and-in-Europe-Results-of-IRSN-investigations.aspx",
+        "source_citation": "Detection of Ruthenium 106 in France and in Europe: Results of IRSN's investigations. Archived from the original on 29 May 2018. Retrieved 14 May 2018.",
+        "source_type": "report",
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "Since October 13, 2017, Ruthenium 106 is no longer detected in France.",
+            "location": "paragraph 2"
+          },
+          {
+            "excerpt": "For the period from September 27 to October 13, 2017, only the stations of Seyne-sur-Mer, Nice and Ajaccio revealed the presence of Ruthenium 106 in trace amounts.",
+            "location": "paragraph 2"
+          },
+          {
+            "excerpt": "Since October 13, 2017, Ruthenium 106 is no longer detected in France.",
+            "location": "paragraph 3"
+          }
+        ],
+        "verdict": "Supported",
         "failure_type": [],
-        "rationale": ""
+        "rationale": "The cited IRSN report supports the claim by stating that Ruthenium-106 levels steadily decreased in sampling periods after 6 October 2017 and that the isotope was no longer detected in France after 13 October. These findings corroborate the claim’s reported timeline and trend."
       }
     ]
   },
   {
     "claim_id": "16",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "Airborne radioactivity in Europe in autumn 2017",
+    "claim_text": "The Institute of Radioprotection and Nuclear Safety of France, indicated that the relatively high levels in the beginning of October steadily decreased from 6 October, while no radioactive element was detected after 13 October.",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
-        "failure_type": [],
-        "rationale": ""
+        "annotation_id": "16",
+        "source_title": "Mishandling of spent nuclear fuel may have caused radioactivity across europe",
+        "source_url": "https://www.science.org/content/article/mishandling-spent-nuclear-fuel-russia-may-have-caused-radioactivity-spread-across",
+        "source_citation": "Mishandling of spent nuclear fuel in Russia may have caused radioactivity to spread across Europe By Edwin CartlidgeFeb. 14, 2018",
+        "source_type": "News article",
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "For 2 weeks in September and October last year, traces of the humanmade isotope ruthenium-106 wafted across Europe",
+            "location": "paragraph 1"
+          }
+        ],
+        "verdict": "Not supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The article confirms that ruthenium-106 traces crossed Europe for about two weeks in September and October 2017, but it does not mention a decline from 6 October or an end of detection on 13 October. It also does not describe the early-October levels as relatively high or give any trend. The dates and the decreasing pattern in the claim are therefore not established by this source."
       }
     ]
   },
   {
     "claim_id": "17",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "Experiments in the Revival of Organisms",
+    "claim_text": "The next year he presented further research to the Second Congress of Soviet Physiologists in Leningrad",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
+        "annotation_id": "17",
+        "source_title": "Off with your heads: isolated organs in early Soviet science and fiction",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2743238/",
+        "source_citation": "Krementsov, Nikolai (June 2009). \"Off with your heads: isolated organs in early Soviet science and fiction\". Studies in History and Philosophy of Biological and Biomedical Sciences. 40 (2): 87–100. doi:10.1016/j.shpsc.2009.03.001. ISSN 1879-2499. PMC 2743238. PMID 19442924.",
+        "source_type": "research article",
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "most a year later, in May 1926, together with a colleague at the Chemical-Pharmaceutical Institute, physiologist Sergei Chechulin, Briukhonenko presented results of his further investigations to the Second Congress of Soviet Physiologists in Leningrad",
+            "location": "paragraph 14"
+          }
+        ],
+        "verdict": "Supported",
         "failure_type": [],
-        "rationale": ""
+        "rationale": "The cited source supports the claim by explicitly stating that, in May 1926, Briukhonenko and physiologist Sergei Chechulin presented the results of their further investigations at the Second Congress of Soviet Physiologists in Leningrad. This directly corroborates the claim that he presented further research at the congress the following year."
       }
     ]
   },
   {
     "claim_id": "18",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "Chinese ghost marriage",
+    "claim_text": "China's existing laws do not explicitly and directly prohibit the custom of ghost marriages. They only intervene if other illegal and criminal activities result from ghost marriages, including the theft of women's corpses and the intentional killing of women for profit",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
+        "annotation_id": "18",
+        "source_title": "Ghost Marriage under scrutiny in East China After Teen's Death",
+        "source_url": "https://www.sixthtone.com/news/1014114",
+        "source_citation": "Zhu Junxi (20 November 2023). \"Ghost Marriages Under Scrutiny in East China After Teen's Death\". Sixth Tone.",
+        "source_type": "News article",
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "While the Criminal Law imposes penalties for the theft and desecration of a corpse, it doesn’t specifically address the practice of ghost marriages.",
+            "location": "paragraph 9"
+          },
+          {
+            "excerpt": "Existing laws do not explicitly and directly prohibit the superstitious custom of ghost marriages,” Yao Jianlong, director of the Institute of Law at the Shanghai Academy of Social Sciences, told a local media outlet. “The law will only intervene if other illegal and criminal activities result from ghost marriages.",
+            "location": "paragraph 10"
+          },
+          {
+            "excerpt": "The verdicts describe several crimes related to ghost marriages, including the theft of women’s corpses and the intentional killing of women for profit in ghost marriages.",
+            "location": "paragraph 11"
+          }
+        ],
+        "verdict": "Supported",
         "failure_type": [],
-        "rationale": ""
+        "rationale": "The source supports the claim by explaining that Chinese law does not explicitly prohibit ghost marriages but intervenes when related criminal activities occur. It specifically identifies the theft of women's corpses and the intentional killing of women for profit as punishable under current laws."
       }
     ]
   },
   {
     "claim_id": "19",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "Disappearance of Larry Griffin",
+    "claim_text": "All charges were subsequently dropped and the case officially remains unsolved. Fitzgerald later claimed that he had changed his testimony under duress from the villagers, and reiterated that they had been involved in Griffin's disappearance.",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
+        "annotation_id": "19",
+        "source_title": "CSÍ The Missing Postman Part Three",
+        "source_url": "https://www.youtube.com/watch?v=9_KyFmjp2c8",
+        "source_citation": "“CSÍ The Missing Postman Part Three.” YouTube, uploaded by joekilgobinet, 19 Sept. 2009, www.youtube.com/watch?v=9_KyFmjp2c8.",
         "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
-        "failure_type": [],
-        "rationale": ""
+        "source_access": "full access",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "he was put under duress by the gadai",
+            "location": "timestamp 6:48 - 7:07"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The cited source discusses the case being closed and Filterzard being placed under duress by the villagers. However, it does not establish that he reiterated the Whelan family's responsibility for the missing postman."
       }
     ]
   },
   {
     "claim_id": "20",
-    "article_title": "",
-    "claim_text": "",
-    "origin": "",
-    "origin_basis": "",
+    "article_title": "Christianity in Africa",
+    "claim_text": "Restrictions on church building and demolition of churches in Egypt, along with occasional persecutions such as during the reign of al-Hakim (996–1021), put additional pressure on Copts in Egypt",
+    "origin": "organic sample",
+    "origin_basis": "reviewer",
     "annotations": [
       {
-        "annotation_id": "",
-        "source_title": "",
-        "source_url": "",
-        "source_citation": "",
-        "source_type": "",
-        "source_access": "",
-        "date_accessed": "",
-        "evidence": [],
-        "verdict": "",
-        "failure_type": [],
-        "rationale": ""
+        "annotation_id": "20",
+        "source_title": "World Directory of Minorities and Indigenous Peoples - Egypt : Copts of Egypt",
+        "source_url": "https://www.refworld.org/reference/countryrep/mrgi/2017/121736",
+        "source_citation": "Refugees, United Nations High Commissioner for. \"Copts of Egypt\". Refworld. Retrieved 2020-06-15.",
+        "source_type": "report",
+        "source_access": "full acccess",
+        "date_accessed": "2026-10-29",
+        "evidence": [
+          {
+            "excerpt": "While authorities have reportedly objected less to church construction and renovations since Sisi took power, the community has still faced tremendous difficulties in securing official approval and support.",
+            "location": "current issue section, paragraph 5"
+          },
+          {
+            "excerpt": "Security personnel such as police have also raided prayer houses, such as near Maghagha and Abu Qurqas in 2015, confiscating religious paraphernalia and preventing people from praying in properties deemed illegal, without official permission.",
+            "location": "current issue section, paragraph 5"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The source supports the claim that restrictions on church construction and renovation, along with interference in Coptic worship, placed additional pressure on Egypt’s Coptic community. However, the cited passage does not address the historical persecution of Copts during al-Hakim’s reign (996–1021), so that part of the claim is not established by this source."
+      },
+      {
+        "annotation_id": "21",
+        "source_title": "Egypt and Syria in the Fatimid, Ayyubid and Mamluk Eras IV:",
+        "source_url": "https://books.google.com.ng/books?id=Sk6tAUL5ZWYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false",
+        "source_citation": "Brett, Michael (2005). \"Population and Conversion to Islam in Egypt in the Mediaeval Period\". In Vermeulen, Urbain; Steenbergen, J. Van (eds.). Egypt and Syria in the Fatimid, Ayyubid and Mamluk Eras IV: Proceedings of the 9th and 10th International Colloquium Organized at the Katholieke Universiteit Leuven in May 2000 and May 2001. Peeters. pp. 1–32. ISBN 978-90-429-1524-4.",
+        "source_type": "Book",
+        "source_access": "full access",
+        "date_accessed": "2026-10-30",
+        "evidence": [
+          {
+            "excerpt": "The notorious bout of persecution to which christians were subjected by al-Hakim at the begining of the eleventh century was exexceprtional .",
+            "location": null
+          },
+          {
+            "excerpt": "christians were not allowed to reconstruct their churches",
+            "location": "page 24, paragraph 1"
+          },
+          {
+            "excerpt": "￼while granting him leave to celebrate mass and to consecrate and reconsecrate churches and chapels which had hitherto been under interodict",
+            "location": "page 403, paragraph 1"
+          }
+        ],
+        "verdict": "Partially supported",
+        "failure_type": [
+          "Missing evidence"
+        ],
+        "rationale": "The source documents the persecution of Christians under al-Hakim in the early eleventh century and restrictions on church reconstruction, supporting the historical persecution and church-building restriction aspects of the claim. However, the source evidence provided does not establish the specific assertion that churches were demolished in Egypt. Therefore, the claim is partially supported by the cited source."
       }
     ]
   }

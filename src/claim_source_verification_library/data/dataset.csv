@@ -1,17 +1,19 @@
-claim_id,claim_text,origin,origin_basis,article_url,article_title,annotation_id,date_accessed,location_1,location_2,source_title,source_type,source_url,source_citation,source_access,evidence_excerpts_1,evidence_excerpts_2,verdict,failure_type,rationale
+claim_id,claim_text,origin,origin_basis,article_url,article_title,annotation_id,date_accessed,location_1,location_2,location_3,source_title,source_type,source_url,source_citation,source_access,evidence_excerpts_1,evidence_excerpts_2,evidence_excerpts_3,verdict,failure_type,rationale
 01,"In some areas, groundwater recharge has not
 been up to date or being monitored closely, 
 which is contributing to the declining water levels 
 and water quality in the area.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=51150531,"Central Valley 
-groundwater pollution",01,2026-10-27,Full text reviewed; no supporting passage identified,,Study offers  on reducing nitrate contamination from groundwater recharge,news article,https://caes.ucdavis.edu/news/study-offers-insights-reducing-nitrate-contamination-groundwater-recharge,"Hsu, Michael (March 22, 2023). ""Study offers insights on reducing nitrate contamination from groundwater recharge | College of Agricultural and Environmental Sciences"". caes.ucdavis.edu. Retrieved April 30, 2026.",full text,NO SUPPORTING PASSAGE FOUND,,Not supported,Missing evidence,"The source establishes the effects of nitrate contamination and describes measures to reduce it. However, it does not establish whether groundwater recharge is being adequately monitored or whether inadequate monitoring contributes to declining groundwater levels and water quality in the area."
+groundwater pollution",01,2026-10-27,Full text reviewed; no supporting passage identified,,,Study offers  on reducing nitrate contamination from groundwater recharge,news article,https://caes.ucdavis.edu/news/study-offers-insights-reducing-nitrate-contamination-groundwater-recharge,"Hsu, Michael (March 22, 2023). ""Study offers insights on reducing nitrate contamination from groundwater recharge | College of Agricultural and Environmental Sciences"". caes.ucdavis.edu. Retrieved April 30, 2026.","full access
+",NO SUPPORTING PASSAGE FOUND,,,not supported,missing evidence,"The source establishes the effects of nitrate contamination and describes measures to reduce it. However, it does not establish whether groundwater recharge is being adequately monitored or whether inadequate monitoring contributes to declining groundwater levels and water quality in the area."
 02,"Manure produces around 6.5 million tons of nitrogen, 
 which, when not handled properly or with improper 
 drainage methods, can contaminate soil and 
 water sources.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=51150531,"Central Valley 
 groundwater pollution
-",02,2026-10-27,Full text reviewed; no supporting passage identified,,"Nitrate fact sheet
+",02,2026-10-27,Full text reviewed; no supporting passage identified,,,"Nitrate fact sheet
 California Department 
-of Public Health", fact sheet,https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/nitrate/fact_sheet_nitrate_may2014_update.pdf,"Nitrate Fact Sheet (PDF). waterboards.ca.gov. May 2014. Retrieved October 15, 2025.",full text,NO SUPPORTING PASSAGE FOUND,,Not supported,Missing evidence,"The source identifies confined animal feeding operations and fertilizer use as sources associated with nitrate contamination in groundwater. However, it does not substantiate the claim that manure produces approximately 6.5 million tons of nitrogen or establish the specific contamination mechanism described in the claim."
+of Public Health", fact sheet,https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/nitrate/fact_sheet_nitrate_may2014_update.pdf,"Nitrate Fact Sheet (PDF). waterboards.ca.gov. May 2014. Retrieved October 15, 2025.","full access
+",NO SUPPORTING PASSAGE FOUND,,,not supported,missing evidence,"The source identifies confined animal feeding operations and fertilizer use as sources associated with nitrate contamination in groundwater. However, it does not substantiate the claim that manure produces approximately 6.5 million tons of nitrogen or establish the specific contamination mechanism described in the claim."
 03,"Clinics and agencies began offering full “surrogacy 
 packages” to both Indian and foreign clients, and 
 surrogacy was promoted as part of a wider medical 
@@ -20,15 +22,16 @@ tourism strategy",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/
 
 ","Background, paragrah3
 
-","The advantages and 
+",,"The advantages and 
 disadvantages of 
 altruistic and commercial 
-surrogacy in India",Journal article,https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/," Hibino, Yuri (7 July 2023). ""The advantages and disadvantages of altruistic and commercial surrogacy in India"". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",full text,"""with many IVF clinics offering surrogacy programs throughout India""","Both the ICMR’s guidelines and the ART Bill made 
+surrogacy in India",Journal article,https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/," Hibino, Yuri (7 July 2023). ""The advantages and disadvantages of altruistic and commercial surrogacy in India"". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.","full access
+","""with many IVF clinics offering surrogacy programs throughout India""","Both the ICMR’s guidelines and the ART Bill made 
 provisions granting custody to the intended parents, 
 including foreigners, with the clear intent of promoting 
 surrogacy tourism.
-",Partially supported,"Overstatement / stronger wording; 
-Unsupported scope or population.","The source confirms that IVF clinics offered surrogacy programs in India and 
+",,partially supported,"overstatement / stronger wording; 
+unsupported scope or population.","The source confirms that IVF clinics offered surrogacy programs in India and 
 that the ICMR guidelines and draft ART Bill aimed to promote surrogacy tourism.
 It does not establish ""full packages,"" the role of agencies, or a wider medical 
 tourism strategy. The ART Bill was never enacted, so it shows intent, not 
@@ -37,38 +40,43 @@ implementation."
 surrogacy generated more than US$2 billion 
 annually, with thousands of IVF clinics across the 
 country",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=376975008,Surrogacy in India,04,2026-10-28,"Background, paragrah3
-",,"The advantages and 
+",,,"The advantages and 
 disadvantages of 
 altruistic and commercial 
 surrogacy in India",journal article,"https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/
-"," Hibino, Yuri (7 July 2023). ""The advantages and disadvantages of altruistic and commercial surrogacy in India"". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",full text,"The Confederation of Indian Industry predicts that surrogacy generates US$2.3 billion annually [3], with many IVF clinics offering surrogacy programs throughout India.",,Partially supported,Unsupported number/statistic,"The source supports the US$2.3 billion annual estimate, attributed to the
+"," Hibino, Yuri (7 July 2023). ""The advantages and disadvantages of altruistic and commercial surrogacy in India"". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.","full access
+","The Confederation of Indian Industry predicts that surrogacy generates US$2.3 billion annually [3], with many IVF clinics offering surrogacy programs throughout India.",,,partially supported,unsupported number/statistic,"The source supports the US$2.3 billion annual estimate, attributed to the
 Confederation of Indian Industry. It says only that “many” IVF clinics 
 offered surrogacy programs, so “thousands” is not established."
 05,"Throughout the 2000s and early 2010s, India became 
 a major global destination for transnational commercial 
 surrogacy, attracting heterosexual couples, single intended 
-parents and same-sex couples from abroad.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=376975008,Surrogacy in India,05,2026-10-28,"Abstract, paragraph 1",,"The advantages and 
+parents and same-sex couples from abroad.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=376975008,Surrogacy in India,05,2026-10-28,"Abstract, paragraph 1",,,"The advantages and 
 disadvantages of 
 altruistic and commercial 
 surrogacy in India",journal article,"https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/
-"," Hibino, Yuri (7 July 2023). ""The advantages and disadvantages of altruistic and commercial surrogacy in India"". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",full text,"Comprehensive commercial surrogacy became legal in India in 2002, and many foreigners, including individuals and same-sex couples, sought Indian surrogacy services due to their affordability.",,partially supported,"Overstatement / stronger wording; 
-Unsupported scope or population.","The source supports India’s role as a destination for 
+"," Hibino, Yuri (7 July 2023). ""The advantages and disadvantages of altruistic and commercial surrogacy in India"". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.","full access
+","Comprehensive commercial surrogacy became legal in India in 2002, and many foreigners, including individuals and same-sex couples, sought Indian surrogacy services due to their affordability.",,,partially supported,"overstatement / stronger wording; 
+unsupported scope or population.","The source supports India’s role as a destination for 
 foreign surrogacy clients following its legalisation in 2002, explicitly 
 mentioning individuals and same-sex couples attracted by affordability. 
 However, it does not establish India’s global prominence, and did not specifically mention heterosexual couples."
-06,The reproduction of this houndshark is ovoviviparous.,AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=995445466,Sharpfin houndshark,06,2026-10-25,Life cycle and mating behavior section,,"Triakis acutipinna Kato, 1968",database,https://www.fishbase.org/summary/Triakis_acutipinna.html#,"Froese, Rainer; Pauly, Daniel (eds.). ""Triakis acutipinna"". FishBase. July 2006 version.",full text,"Ovoviviparous, embryos feed solely on yolk.",,Supported,,"The source explicitly states that the houndshark is ovoviviparous, directly supporting the claim.The claim does not go beyond the evidence provided."
+06,The reproduction of this houndshark is ovoviviparous.,AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=995445466,Sharpfin houndshark,06,2026-10-25,Life cycle and mating behavior section,,,"Triakis acutipinna Kato, 1968",database,https://www.fishbase.org/summary/Triakis_acutipinna.html#,"Froese, Rainer; Pauly, Daniel (eds.). ""Triakis acutipinna"". FishBase. July 2006 version.","full access
+","Ovoviviparous, embryos feed solely on yolk.",,,supported,,"The source explicitly states that the houndshark is ovoviviparous, directly supporting the claim.The claim does not go beyond the evidence provided."
 07,"The sharpfin houndshark is classified as endangered 
-by the IUCN Red List",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=995445466,Sharpfin houndshark,07,2026-10-25,The Red List assessment,,"Sharpfin houndshark, Triakis acutipinna
-",report,https://www.iucnredlist.org/species/39361/124406514," Cevallos-Garcías, A (2020). ""Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna"".",full text,"The source displays the species’ conservation status on a scale
+by the IUCN Red List",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=995445466,Sharpfin houndshark,07,2026-10-25,The Red List assessment,,,"Sharpfin houndshark, Triakis acutipinna
+",report,https://www.iucnredlist.org/species/39361/124406514," Cevallos-Garcías, A (2020). ""Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna"".","full access
+","The source displays the species’ conservation status on a scale
 and explicitly lists its IUCN Red List category as “Endangered” 
-under the global assessment.",,Supported,,"The source explicitly classifies the sharpfin houndshark as 
+under the global assessment.",,,Supported,,"The source explicitly classifies the sharpfin houndshark as 
 Endangered on the IUCN Red List, directly supporting the claim."
 08,"The species is likely threatened by incidental capture in
  coastal fisheries and habitat degradation within its limited 
-range, increasing risk of extinction",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=995445466,Sharpfin houndshark,08,2026-10-25,Threats and Biological resource use,,"Sharpfin houndshark, Triakis acutipinna
+range, increasing risk of extinction",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=995445466,Sharpfin houndshark,08,2026-10-25,Threats and Biological resource use,,,"Sharpfin houndshark, Triakis acutipinna
 
 ",report,"https://www.iucnredlist.org/species/39361/124406514
-"," Cevallos-Garcías, A (2020). ""Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna"".",full text,"It is known only from Manabí province, Ecuador in the Southeast Pacific with an 
+"," Cevallos-Garcías, A (2020). ""Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna"".","full access
+","It is known only from Manabí province, Ecuador in the Southeast Pacific with an 
 estimated extent of occurrence of 4,900–7,163 km². Its habitat and life history are 
 virtually unknown and based on captures it is known to occur at depths of 50–200 
 m","Small-scale fisheries which catch sharks operate across coastal Ecuador and the 
@@ -77,30 +85,60 @@ gillnet fisheries and the industrial hake demersal longline fishery that operate
 depth of 200 m. 
 
 
-",partially supported,Overstatement / stronger wording,
+",,partially supported,Overstatement / stronger wording,
 09,"For example, people started switching to sulfate-free shampoos,
- since sulfates tend to strip hair of its natural oils.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=50885417,Curly Girl Method,09,2026-10-25,"how to achieve the curl girl method section , step 1 - paragraph 1",,"Is the curly Girl Method 
+ since sulfates tend to strip hair of its natural oils.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=50885417,Curly Girl Method,09,2026-10-25,"how to achieve the curl girl method section , step 1 - paragraph 1",,,"Is the curly Girl Method 
 right for your hair?  An 
-expert breaks it  down",news article,https://www.today.com/shop/curly-girl-method-products-rcna100025,Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.,full text,"For this, Ashley recommends using a sulfate-free shampoo,
- which won't strip the hair of its natural oils.",,Partially supported,Unsupported number / statistics,"The source supports the rationale: a stylist recommends sulfate-free shampoo 
+expert breaks it  down",news article,https://www.today.com/shop/curly-girl-method-products-rcna100025,Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.,"full access
+","For this, Ashley recommends using a sulfate-free shampoo,
+ which won't strip the hair of its natural oils.",,,partially supported,unsupported number / statistics,"The source supports the rationale: a stylist recommends sulfate-free shampoo 
 because it won’t strip natural oils. It gives no evidence that people switched 
 products or that a trend occurred, so the behavior in the claim is not established."
 10,"This expanded the reach of the method to younger and 
-more diverse audiences.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=50885417,Curly Girl Method,10,2026-10-25,paragraph 3,,"Is the curly Girl Method 
+more diverse audiences.",AI-flagged,AI generated,https://dashboard.wikiedu.org/courses/Demo_University/Demo_class_(Fall_2024)/verify_claim?showArticle=50885417,Curly Girl Method,10,2026-10-25,paragraph 3,,,"Is the curly Girl Method 
 right for your hair?  An 
 expert breaks it  down",news article,https://www.today.com/shop/curly-girl-method-products-rcna100025,"Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.
-",full text,"And the practice is still popular to this day. The ‘Curly Girl Method’ tag
+","full access
+","And the practice is still popular to this day. The ‘Curly Girl Method’ tag
  on TikTok has more than 1.3 billion views, with people sharing their 
-successes and favorite products to use",,Not supported,Unsupported number / statistics,"The cited source  supports the method’s continued popularity and 
+successes and favorite products to use",,,not supported,unsupported number / statistics,"The cited source  supports the method’s continued popularity and 
 high TikTok engagement but provides no evidence of expanded reach, 
 audience demographics, or causation."
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-13,,,,,,,,,,,,,,,,,,,
-14,,,,,,,,,,,,,,,,,,,
-15,,,,,,,,,,,,,,,,,,,
-16,,,,,,,,,,,,,,,,,,,
-17,,,,,,,,,,,,,,,,,,,
-18,,,,,,,,,,,,,,,,,,,
-19,,,,,,,,,,,,,,,,,,,
-20,,,,,,,,,,,,,,,,,,,
+11,While Trump has repeatedly expressed support for the idea of campaign finance reform he has not outlined specifics of his actual views on campaign-finance regulation.,organic sample,reviewer,https://en.wikipedia.org/wiki/Political_positions_of_Donald_Trump#cite_ref-114,Political positions  of Donald Trump,11,2026-10-29,,,,source not accessible,news article,https://www.bloomberg.com/news/articles/2015-08-14/trump-i-love-the-idea-of-campaign-finance-reform-,Trump: I love the idea of campaign Finance Reform,paywalled,,,,unable to evaluate,,"The cited Bloomberg article is paywalled, and its full text could not be accessed, so it was not possible to check whether it supports the claim. This verdict reflects a limit on access, not a finding about the claim’s accuracy or the source’s reliability."
+12,"He further infuriated the political establishment by implicating 
+ITT Corporation's vice-president, Moshood Abiola, and 
+Obasanjo in the popular 25-minute political screed entitled 
+""I.T.T. (International Thief-Thief)",organic sample,reviewer,https://en.wikipedia.org/wiki/Fela_Kuti,Fela Kuti,12,2026-10-28,paragraph 28,paragraph 28,,"Fela Kuti: Chronicle of a 
+life foretold
+",news article,https://www.thewire.co.uk/in-writing/essays/fela-kuti_chronicle-ofa-life-foretold,"Barrett, Lindsay (September 2011) [March 1998]. ""Fela Kuti: Chronicle of A Life Foretold"". The Wire. No. 169. Retrieved 13 June 2015.","full access
+",It was clear to Fela that the government had been putting pressure on these organisations to undermine his independence,"One of his most famous songs emerged during this period,
+ ""ITT"" (""International T'ief T'ief""), in which he heaped abuse 
+on Chief MKO Abiola who was then 'Vice President for Africa 
+and the Middle East of ITT', owners of the Decca label.",,partially supported,missing evidence,"The source supports the song’s title, its attack on Abiola as ITT’s vice-president,
+ and its fame. It does not link the song to Obasanjo, who appears only as one
+ of those who harassed him."
+13,"For the first time, women were appointed to the 
+Native Court system.",Organic,reviewer,https://en.wikipedia.org/wiki/Women%27s_War,Women's war,13,2026-10-29,"consequences section, paragraph 2",,,Igbo women's war,encyclopedia,https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/igbo-womens-war,"""Igbo Women's War | Encyclopedia.com"". www.encyclopedia.com. Retrieved 2026-04-02.","full access
+","The report convinced the government to carry out many 
+administrative reforms, including the abolition of the warrant 
+chief system, a reorganization of the native courts to include
+ women members, and the creation of village-group councils 
+whose decisions were enforced by group courts.",,,supported,,"The source explicitly states that the reorganization of the Native Court system included women as members. It also describes the earlier warrant chief system, which did not include women in the administrative structure. This supports the claim that the appointment of women to the Native Court system represented a change from the previous arrangement."
+14,He was held in place through the window frame for 20 minutes until the first officer landed at Southampton Airport.,organic sample,reviewer,https://en.wikipedia.org/wiki/British_Airways_Flight_5390#cite_note-1, British Airways Flight 5390,14,2026-10-29,"narrative, paragrah 1
+","narrative, paragrah 1","narrative, paragrah 2",ASN Aircraft accident BAC One-Eleven 528FL G-BJRT Didcot.,database,aviation-safety.net/asndb/326018,"Ranter, Harro. ""ASN Aircraft accident BAC One-Eleven 528FL G-BJRT Didcot"". Aviation Safety Network. Flight Safety Foundation. Archived from the original on 16 July 2019. Retrieved 28 August 2020.","full access
+","The No 3 steward, who had been working on the cabin side of the door, rushed onto the flight deck and grasped the captain round his waist to hold onto him.",. He held him by the ankles until after the aircraft had landed. ,"Having verified that there was sufficient runway length available for a landing, the co-pilot manoeuvred the aircraft onto a visual final approach to runway 02 and completed a successful landing and stop on the runway at 07:55 hrs. ",supported,,"The report states that cabin crew grasped the captain, who was partially out of the windscreen aperture, and that a steward held him by the ankles until after landing. It gives the decompression at 07:33 and the landing at Southampton at 07:55, which fits the claimed duration of about 20 minutes. The source does not state the duration directly, and refers to the “co-pilot” rather than the “first officer,” but the claim is otherwise fully consistent with it."
+15,"The Institute of Radioprotection and Nuclear Safety of France, indicated that the relatively high levels in the beginning of October steadily decreased from 6 October, while no radioactive element was detected after 13 October.",organic sample,reviewer,https://en.wikipedia.org/wiki/Airborne_radioactivity_increase_in_Europe_in_autumn_2017,Airborne radioactivity in  Europe in autumn 2017,15,2026-10-29,paragraph 2,paragraph 2,paragraph 3,Detection of Ruthenium 106 in France and in Europe: Results of IRSN’s investigations,report,https://web.archive.org/web/20180529225308/http://www.irsn.fr/EN/newsroom/News/Pages/20171109_Detection-of-Ruthenium-106-in-France-and-in-Europe-Results-of-IRSN-investigations.aspx,Detection of Ruthenium 106 in France and in Europe: Results of IRSN's investigations. Archived from the original on 29 May 2018. Retrieved 14 May 2018.,"full access
+"," Since October 13, 2017, Ruthenium 106 is no longer detected in France.
+","For the period from September 27 to October 13, 2017, only the stations of Seyne-sur-Mer, Nice and Ajaccio revealed the presence of Ruthenium 106 in trace amounts.
+"," Since October 13, 2017, Ruthenium 106 is no longer detected in France.",supported,,The cited IRSN report supports the claim by stating that Ruthenium-106 levels steadily decreased in sampling periods after 6 October 2017 and that the isotope was no longer detected in France after 13 October. These findings corroborate the claim’s reported timeline and trend.
+16,"The Institute of Radioprotection and Nuclear Safety of France, indicated that the relatively high levels in the beginning of October steadily decreased from 6 October, while no radioactive element was detected after 13 October.
+",organic sample,reviewer,https://en.wikipedia.org/wiki/Airborne_radioactivity_increase_in_Europe_in_autumn_2017,Airborne radioactivity in  Europe in autumn 2017,16,2026-10-29,paragraph 1,,,Mishandling of spent nuclear fuel may have caused radioactivity across europe,news article,https://www.science.org/content/article/mishandling-spent-nuclear-fuel-russia-may-have-caused-radioactivity-spread-across,"Mishandling of spent nuclear fuel in Russia may have caused radioactivity to spread across Europe By Edwin CartlidgeFeb. 14, 2018","full access
+","For 2 weeks in September and October last year, traces of the humanmade isotope ruthenium-106 wafted across Europe",,,not supported,missing evidence,"The article confirms that ruthenium-106 traces crossed Europe for about two weeks in September and October 2017, but it does not mention a decline from 6 October or an end of detection on 13 October. It also does not describe the early-October levels as relatively high or give any trend. The dates and the decreasing pattern in the claim are therefore not established by this source."
+17,The next year he presented further research to the Second Congress of Soviet Physiologists in Leningrad,organic sample,reviewer,https://en.wikipedia.org/wiki/Experiments_in_the_Revival_of_Organisms,Experiments in the Revival of Organisms,17,2026-10-29,paragraph 14,,,Off with your heads: isolated organs in early Soviet science and fiction,research article,https://pmc.ncbi.nlm.nih.gov/articles/PMC2743238/,"Krementsov, Nikolai (June 2009). ""Off with your heads: isolated organs in early Soviet science and fiction"". Studies in History and Philosophy of Biological and Biomedical Sciences. 40 (2): 87–100. doi:10.1016/j.shpsc.2009.03.001. ISSN 1879-2499. PMC 2743238. PMID 19442924.","full access
+","most a year later, in May 1926, together with a colleague at the Chemical-Pharmaceutical Institute, physiologist Sergei Chechulin, Briukhonenko presented results of his further investigations to the Second Congress of Soviet Physiologists in Leningrad",,,supported,,"The cited source supports the claim by explicitly stating that, in May 1926, Briukhonenko and physiologist Sergei Chechulin presented the results of their further investigations at the Second Congress of Soviet Physiologists in Leningrad. This directly corroborates the claim that he presented further research at the congress the following year."
+18,"China's existing laws do not explicitly and directly prohibit the custom of ghost marriages. They only intervene if other illegal and criminal activities result from ghost marriages, including the theft of women's corpses and the intentional killing of women for profit",organic sample,reviewer,https://en.wikipedia.org/wiki/Chinese_ghost_marriage,Chinese ghost marriage,18,2026-10-29,paragraph 9,paragraph 10,paragraph 11,Ghost  Marriage under scrutiny in East China After Teen's Death,news article,https://www.sixthtone.com/news/1014114,"Zhu Junxi (20 November 2023). ""Ghost Marriages Under Scrutiny in East China After Teen's Death"". Sixth Tone.","full access
+","While the Criminal Law imposes penalties for the theft and desecration of a corpse, it doesn’t specifically address the practice of ghost marriages.","Existing laws do not explicitly and directly prohibit the superstitious custom of ghost marriages,” Yao Jianlong, director of the Institute of Law at the Shanghai Academy of Social Sciences, told a local media outlet. “The law will only intervene if other illegal and criminal activities result from ghost marriages.","The verdicts describe several crimes related to ghost marriages, including the theft of women’s corpses and the intentional killing of women for profit in ghost marriages.",supported,,The source supports the claim by explaining that Chinese law does not explicitly prohibit ghost marriages but intervenes when related criminal activities occur. It specifically identifies the theft of women's corpses and the intentional killing of women for profit as punishable under current laws.
+19,"All charges were subsequently dropped and the case officially remains unsolved. Fitzgerald later claimed that he had changed his testimony under duress from the villagers, and reiterated that they had been involved in Griffin's disappearance.",organic sample,reviewer,https://en.wikipedia.org/wiki/Disappearance_of_Larry_Griffin#cite_note-The_Missing_Postman-1,Disappearance of Larry Griffin,19,2026-10-29,timestamp 6:48 - 7:07,,,CSÍ The Missing Postman Part Three ,,https://www.youtube.com/watch?v=9_KyFmjp2c8,"“CSÍ The Missing Postman Part Three.” YouTube, uploaded by joekilgobinet, 19 Sept. 2009, www.youtube.com/watch?v=9_KyFmjp2c8.",full access,he was put under duress by the gadai,,,partially supported,missing evidence,"The cited source discusses the case being closed and Filterzard being placed under duress by the villagers. However, it does not establish that he reiterated the Whelan family's responsibility for the missing postman."
+20,"Restrictions on church building and demolition of churches in Egypt, along with occasional persecutions such as during the reign of al-Hakim (996–1021), put additional pressure on Copts in Egypt",organic sample,reviewer,https://en.wikipedia.org/wiki/Christianity_in_Africa,Christianity in Africa,20,2026-10-29,"current issue section, paragraph 5","current issue section, paragraph 5",,World Directory of Minorities and Indigenous Peoples - Egypt : Copts of Egypt ,report,https://www.refworld.org/reference/countryrep/mrgi/2017/121736,"Refugees, United Nations High Commissioner for. ""Copts of Egypt"". Refworld. Retrieved 2020-06-15.",full acccess,"While authorities have reportedly objected less to church construction and renovations since Sisi took power, the community has still faced tremendous difficulties in securing official approval and support.","Security personnel such as police have also raided prayer houses, such as near Maghagha and Abu Qurqas in 2015, confiscating religious paraphernalia and preventing people from praying in properties deemed illegal, without official permission.",,partially supported,missing evidence,"The source supports the claim that restrictions on church construction and renovation, along with interference in Coptic worship, placed additional pressure on Egypt’s Coptic community. However, the cited passage does not address the historical persecution of Copts during al-Hakim’s reign (996–1021), so that part of the claim is not established by this source."
+20,"Restrictions on church building and demolition of churches in Egypt, along with occasional persecutions such as during the reign of al-Hakim (996–1021), put additional pressure on Copts in Egypt",organic sample,reviewer,https://en.wikipedia.org/wiki/Christianity_in_Africa,Christianity in Africa,21,2026-10-30,,"page 24, paragraph 1","page 403, paragraph 1","Egypt and Syria in the Fatimid, Ayyubid and Mamluk Eras IV: ",book,https://books.google.com.ng/books?id=Sk6tAUL5ZWYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false,"Brett, Michael (2005). ""Population and Conversion to Islam in Egypt in the Mediaeval Period"". In Vermeulen, Urbain; Steenbergen, J. Van (eds.). Egypt and Syria in the Fatimid, Ayyubid and Mamluk Eras IV: Proceedings of the 9th and 10th International Colloquium Organized at the Katholieke Universiteit Leuven in May 2000 and May 2001. Peeters. pp. 1–32. ISBN 978-90-429-1524-4.",full access,The notorious bout of persecution to which christians were subjected by al-Hakim at the begining of the eleventh century was exexceprtional .,"christians were not allowed to reconstruct  their churches
+",￼while granting him leave to celebrate mass and to consecrate and reconsecrate churches and chapels which had hitherto been under interodict,partially supported,missing evidence,"The source documents the persecution of Christians under al-Hakim in the early eleventh century and restrictions on church reconstruction, supporting the historical persecution and church-building restriction aspects of the claim. However, the source evidence provided does not establish the specific assertion that churches were demolished in Egypt. Therefore, the claim is partially supported by the cited source."

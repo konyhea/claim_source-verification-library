@@ -10,13 +10,13 @@
       "source_title": "Title as shown by the source",
       "source_url": "URL as cited",
       "source_citation": "Optional formal bibliographic citation",
-      "source_type": "Journal article / Thesis / News article / Book / Government report / Fact sheet / Database / Other",
-      "source_access": "Full text / Partial / Paywalled / Not found / Other (what you actually inspected)",
+      "source_type": "Journal article / Thesis / News article / Book / Government report / Fact sheet / Database / research article / Other",
+      "source_access": "Full access / Partial access / Paywalled / Not found / Other (what you actually inspected)",
       "date_accessed": "Date you checked the source",
       "evidence": [
         {
-          "excerpt": "Short exact quote(s), or NO SUPPORTING PASSAGE FOUND",
-          "location": "Page, section or paragraph of the excerpt"
+          "excerpt": "Short exact quote(s), source not accessible or NO SUPPORTING PASSAGE FOUND",
+          "location": "Timestamp, Page, section or paragraph of the excerpt"
         }
       ],
       "verdict": "supported / Partially supported / Not supported / Unable to evaluate",
