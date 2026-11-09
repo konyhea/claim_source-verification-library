@@ -3,25 +3,23 @@
   "article_title": "Title of the Wikipedia article containing the claim (not the cited source)",
   "claim_text": "Exact claim being checked; split compound sentences into separate claims",
   "origin": "AI-flagged / Organic sample (how the item was selected, not proof of authorship)",
-  "origin_basis": "What the label rests on (tool flag, edit summary, reviewer)",
   "annotations": [
     {
       "annotation_id": "Unique ID for this claim–source evaluation",
       "source_title": "Title as shown by the source",
       "source_url": "URL as cited",
-      "source_citation": "Optional formal bibliographic citation",
-      "source_type": "Journal article / Thesis / News article / Book / Government report / Fact sheet / Database / research article / Other",
-      "source_access": "Full access / Partial access / Paywalled / Not found / Other (what you actually inspected)",
+      "source_type": "Journal article / Thesis / News article / Book / Government report / Fact sheet / Database / Other",
+      "source_access": "Full text / Partial / Paywalled / Not found / Other (what you actually inspected)",
       "date_accessed": "Date you checked the source",
       "evidence": [
         {
-          "excerpt": "Short exact quote(s), source not accessible or NO SUPPORTING PASSAGE FOUND",
-          "location": "Timestamp, Page, section or paragraph of the excerpt"
+          "excerpt": "Short exact quote(s), or NO SUPPORTING PASSAGE FOUND",
+          "location": "Page, section or paragraph of the excerpt"
         }
       ],
-      "verdict": "supported / Partially supported / Not supported / Unable to evaluate",
+      "verdict": "upported / Partially supported / Not supported / Unable to evaluate",
       "failure_type": [
-        "One or more of: Missing evidence; Unsupported number/statistic; Unsupported causal link; Overstatement; Unsupported scope or population; Unsupported chronology; Contradiction. Empty if Supported or Unable to evaluate"
+        "One or more of: Missing evidence; Unsupported number/statistic; Unsupported causal link; Overstatement; Unsupported scope or population; Contradiction. Empty if Supported or Unable to evaluate"
       ],
       "rationale": "2–3 sentences naming what the source establishes and what it doesn’t"
     }
