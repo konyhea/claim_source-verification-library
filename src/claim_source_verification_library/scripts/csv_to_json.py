@@ -16,14 +16,14 @@ SOURCE_TYPES = ["Journal article", "Thesis", "News article", "Book",
                 "Government report", "Fact sheet", "Database", "Other"]
 SOURCE_ACCESS = ["Full text", "Partial", "Paywalled", "Not found", "Other"]
 FAILURE_TYPES = ["Missing evidence", "Unsupported number/statistic", "Unsupported causal link",
-                 "Overstatement", "Unsupported scope or population", "Unsupported chronology",
+                 "Overstatement", 
                  "Contradiction"]
 FAILURE_ALIASES = {"overstatement/stronger wording": "Overstatement",
                    "unsupported number/statistics": "Unsupported number/statistic"}
 NO_PASSAGE = "NO SUPPORTING PASSAGE FOUND"
 
-CLAIM_COLS = ["claim_id", "article_title", "claim_text", "origin", "origin_basis"]
-ANN_COLS = ["annotation_id", "source_title", "source_url", "source_citation",
+CLAIM_COLS = ["claim_id", "article_title", "claim_text", "origin"]
+ANN_COLS = ["annotation_id", "source_title", "source_url",
             "source_type", "source_access", "date_accessed"]
 
 warnings = []

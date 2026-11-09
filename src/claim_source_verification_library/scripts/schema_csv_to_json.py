@@ -44,13 +44,11 @@ def main():
         "article_title": get("article_title"),
         "claim_text": get("claim_text"),
         "origin": get("origin"),
-        "origin_basis": get("origin_basis"),
         "annotations": [
             {
                 "annotation_id": get("annotation_id"),
                 "source_title": get("source_title"),
                 "source_url": get("source_url"),
-                "source_citation": get("source_citation"),
                 "source_type": get("source_type"),
                 "source_access": get("source_access"),
                 "date_accessed": get("date_accessed"),
