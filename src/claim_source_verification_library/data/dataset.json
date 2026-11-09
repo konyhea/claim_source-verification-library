@@ -4,13 +4,11 @@
     "article_title": "Central Valley groundwater pollution",
     "claim_text": "In some areas, groundwater recharge has not been up to date or being monitored closely, which is contributing to the declining water levels and water quality in the area.",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "01",
         "source_title": "Study offers on reducing nitrate contamination from groundwater recharge",
         "source_url": "https://caes.ucdavis.edu/news/study-offers-insights-reducing-nitrate-contamination-groundwater-recharge",
-        "source_citation": "Hsu, Michael (March 22, 2023). \"Study offers insights on reducing nitrate contamination from groundwater recharge | College of Agricultural and Environmental Sciences\". caes.ucdavis.edu. Retrieved April 30, 2026.",
         "source_type": "News article",
         "source_access": "full access",
         "date_accessed": "2026-10-27",
@@ -33,13 +31,11 @@
     "article_title": "Central Valley groundwater pollution",
     "claim_text": "Manure produces around 6.5 million tons of nitrogen, which, when not handled properly or with improper drainage methods, can contaminate soil and water sources.",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "02",
         "source_title": "Nitrate fact sheet California Department of Public Health",
         "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/nitrate/fact_sheet_nitrate_may2014_update.pdf",
-        "source_citation": "Nitrate Fact Sheet (PDF). waterboards.ca.gov. May 2014. Retrieved October 15, 2025.",
         "source_type": "Fact sheet",
         "source_access": "full access",
         "date_accessed": "2026-10-27",
@@ -62,13 +58,11 @@
     "article_title": "Surrogacy in India",
     "claim_text": "Clinics and agencies began offering full “surrogacy packages” to both Indian and foreign clients, and surrogacy was promoted as part of a wider medical tourism strategy",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "03",
         "source_title": "The advantages and disadvantages of altruistic and commercial surrogacy in India",
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
-        "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
         "source_type": "Journal article",
         "source_access": "full access",
         "date_accessed": "2026-10-27",
@@ -85,7 +79,7 @@
         "verdict": "Partially supported",
         "failure_type": [
           "Overstatement",
-          "Unsupported scope or population"
+          "unsupported scope or population"
         ],
         "rationale": "The source confirms that IVF clinics offered surrogacy programs in India and that the ICMR guidelines and draft ART Bill aimed to promote surrogacy tourism. It does not establish \"full packages,\" the role of agencies, or a wider medical tourism strategy. The ART Bill was never enacted, so it shows intent, not implementation."
       }
@@ -96,13 +90,11 @@
     "article_title": "Surrogacy in India",
     "claim_text": "Estimates by industry groups suggested that surrogacy generated more than US$2 billion annually, with thousands of IVF clinics across the country",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "04",
         "source_title": "The advantages and disadvantages of altruistic and commercial surrogacy in India",
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
-        "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
         "source_type": "Journal article",
         "source_access": "full access",
         "date_accessed": "2026-10-28",
@@ -125,13 +117,11 @@
     "article_title": "Surrogacy in India",
     "claim_text": "Throughout the 2000s and early 2010s, India became a major global destination for transnational commercial surrogacy, attracting heterosexual couples, single intended parents and same-sex couples from abroad.",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "05",
         "source_title": "The advantages and disadvantages of altruistic and commercial surrogacy in India",
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10327345/",
-        "source_citation": "Hibino, Yuri (7 July 2023). \"The advantages and disadvantages of altruistic and commercial surrogacy in India\". Philosophy, ethics, and humanities in medicine: PEHM. 18 (1): 8. doi:10.1186/s13010-023-00130-y. ISSN 1747-5341. PMC 10327345. PMID 37420245.",
         "source_type": "Journal article",
         "source_access": "full access",
         "date_accessed": "2026-10-28",
@@ -144,7 +134,7 @@
         "verdict": "Partially supported",
         "failure_type": [
           "Overstatement",
-          "Unsupported scope or population"
+          "unsupported scope or population"
         ],
         "rationale": "The source supports India’s role as a destination for foreign surrogacy clients following its legalisation in 2002, explicitly mentioning individuals and same-sex couples attracted by affordability. However, it does not establish India’s global prominence, and did not specifically mention heterosexual couples."
       }
@@ -155,13 +145,11 @@
     "article_title": "Sharpfin houndshark",
     "claim_text": "The reproduction of this houndshark is ovoviviparous.",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "06",
         "source_title": "Triakis acutipinna Kato, 1968",
         "source_url": "https://www.fishbase.org/summary/Triakis_acutipinna.html#",
-        "source_citation": "Froese, Rainer; Pauly, Daniel (eds.). \"Triakis acutipinna\". FishBase. July 2006 version.",
         "source_type": "Database",
         "source_access": "full access",
         "date_accessed": "2026-10-25",
@@ -182,13 +170,11 @@
     "article_title": "Sharpfin houndshark",
     "claim_text": "The sharpfin houndshark is classified as endangered by the IUCN Red List",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "07",
         "source_title": "Sharpfin houndshark, Triakis acutipinna",
         "source_url": "https://www.iucnredlist.org/species/39361/124406514",
-        "source_citation": "Cevallos-Garcías, A (2020). \"Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna\".",
         "source_type": "report",
         "source_access": "full access",
         "date_accessed": "2026-10-25",
@@ -209,13 +195,11 @@
     "article_title": "Sharpfin houndshark",
     "claim_text": "The species is likely threatened by incidental capture in coastal fisheries and habitat degradation within its limited range, increasing risk of extinction",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "08",
         "source_title": "Sharpfin houndshark, Triakis acutipinna",
         "source_url": "https://www.iucnredlist.org/species/39361/124406514",
-        "source_citation": "Cevallos-Garcías, A (2020). \"Investigating the status of Ecuador's lost shark, the Sharpfin Houndshark Triakis acutipinna\".",
         "source_type": "report",
         "source_access": "full access",
         "date_accessed": "2026-10-25",
@@ -242,13 +226,11 @@
     "article_title": "Curly Girl Method",
     "claim_text": "For example, people started switching to sulfate-free shampoos, since sulfates tend to strip hair of its natural oils.",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "09",
         "source_title": "Is the curly Girl Method right for your hair? An expert breaks it down",
         "source_url": "https://www.today.com/shop/curly-girl-method-products-rcna100025",
-        "source_citation": "Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.",
         "source_type": "News article",
         "source_access": "full access",
         "date_accessed": "2026-10-25",
@@ -271,13 +253,11 @@
     "article_title": "Curly Girl Method",
     "claim_text": "This expanded the reach of the method to younger and more diverse audiences.",
     "origin": "AI-flagged",
-    "origin_basis": "AI generated",
     "annotations": [
       {
         "annotation_id": "10",
         "source_title": "Is the curly Girl Method right for your hair? An expert breaks it down",
         "source_url": "https://www.today.com/shop/curly-girl-method-products-rcna100025",
-        "source_citation": "Is the Curly Girl Method right for your hair? An expert breaks it down. TODAY.com. 2024-08-12. Retrieved 2026-01-28.",
         "source_type": "News article",
         "source_access": "full access",
         "date_accessed": "2026-10-25",
@@ -300,13 +280,11 @@
     "article_title": "Political positions of Donald Trump",
     "claim_text": "While Trump has repeatedly expressed support for the idea of campaign finance reform he has not outlined specifics of his actual views on campaign-finance regulation.",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "11",
         "source_title": "source not accessible",
         "source_url": "https://www.bloomberg.com/news/articles/2015-08-14/trump-i-love-the-idea-of-campaign-finance-reform-",
-        "source_citation": "Trump: I love the idea of campaign Finance Reform",
         "source_type": "News article",
         "source_access": "Paywalled",
         "date_accessed": "2026-10-29",
@@ -322,13 +300,11 @@
     "article_title": "Fela Kuti",
     "claim_text": "He further infuriated the political establishment by implicating ITT Corporation's vice-president, Moshood Abiola, and Obasanjo in the popular 25-minute political screed entitled \"I.T.T. (International Thief-Thief)",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "12",
         "source_title": "Fela Kuti: Chronicle of a life foretold",
         "source_url": "https://www.thewire.co.uk/in-writing/essays/fela-kuti_chronicle-ofa-life-foretold",
-        "source_citation": "Barrett, Lindsay (September 2011) [March 1998]. \"Fela Kuti: Chronicle of A Life Foretold\". The Wire. No. 169. Retrieved 13 June 2015.",
         "source_type": "News article",
         "source_access": "full access",
         "date_accessed": "2026-10-28",
@@ -355,13 +331,11 @@
     "article_title": "Women's war",
     "claim_text": "For the first time, women were appointed to the Native Court system.",
     "origin": "Organic",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "13",
         "source_title": "Igbo women's war",
         "source_url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/igbo-womens-war",
-        "source_citation": "\"Igbo Women's War | Encyclopedia.com\". www.encyclopedia.com. Retrieved 2026-04-02.",
         "source_type": "encyclopedia",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -382,13 +356,11 @@
     "article_title": "British Airways Flight 5390",
     "claim_text": "He was held in place through the window frame for 20 minutes until the first officer landed at Southampton Airport.",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "14",
         "source_title": "ASN Aircraft accident BAC One-Eleven 528FL G-BJRT Didcot.",
         "source_url": "aviation-safety.net/asndb/326018",
-        "source_citation": "Ranter, Harro. \"ASN Aircraft accident BAC One-Eleven 528FL G-BJRT Didcot\". Aviation Safety Network. Flight Safety Foundation. Archived from the original on 16 July 2019. Retrieved 28 August 2020.",
         "source_type": "Database",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -417,13 +389,11 @@
     "article_title": "Airborne radioactivity in Europe in autumn 2017",
     "claim_text": "The Institute of Radioprotection and Nuclear Safety of France, indicated that the relatively high levels in the beginning of October steadily decreased from 6 October, while no radioactive element was detected after 13 October.",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "15",
         "source_title": "Detection of Ruthenium 106 in France and in Europe: Results of IRSN’s investigations",
         "source_url": "https://web.archive.org/web/20180529225308/http://www.irsn.fr/EN/newsroom/News/Pages/20171109_Detection-of-Ruthenium-106-in-France-and-in-Europe-Results-of-IRSN-investigations.aspx",
-        "source_citation": "Detection of Ruthenium 106 in France and in Europe: Results of IRSN's investigations. Archived from the original on 29 May 2018. Retrieved 14 May 2018.",
         "source_type": "report",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -452,13 +422,11 @@
     "article_title": "Airborne radioactivity in Europe in autumn 2017",
     "claim_text": "The Institute of Radioprotection and Nuclear Safety of France, indicated that the relatively high levels in the beginning of October steadily decreased from 6 October, while no radioactive element was detected after 13 October.",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "16",
         "source_title": "Mishandling of spent nuclear fuel may have caused radioactivity across europe",
         "source_url": "https://www.science.org/content/article/mishandling-spent-nuclear-fuel-russia-may-have-caused-radioactivity-spread-across",
-        "source_citation": "Mishandling of spent nuclear fuel in Russia may have caused radioactivity to spread across Europe By Edwin CartlidgeFeb. 14, 2018",
         "source_type": "News article",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -481,13 +449,11 @@
     "article_title": "Experiments in the Revival of Organisms",
     "claim_text": "The next year he presented further research to the Second Congress of Soviet Physiologists in Leningrad",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "17",
         "source_title": "Off with your heads: isolated organs in early Soviet science and fiction",
         "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2743238/",
-        "source_citation": "Krementsov, Nikolai (June 2009). \"Off with your heads: isolated organs in early Soviet science and fiction\". Studies in History and Philosophy of Biological and Biomedical Sciences. 40 (2): 87–100. doi:10.1016/j.shpsc.2009.03.001. ISSN 1879-2499. PMC 2743238. PMID 19442924.",
         "source_type": "research article",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -508,13 +474,11 @@
     "article_title": "Chinese ghost marriage",
     "claim_text": "China's existing laws do not explicitly and directly prohibit the custom of ghost marriages. They only intervene if other illegal and criminal activities result from ghost marriages, including the theft of women's corpses and the intentional killing of women for profit",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "18",
         "source_title": "Ghost Marriage under scrutiny in East China After Teen's Death",
         "source_url": "https://www.sixthtone.com/news/1014114",
-        "source_citation": "Zhu Junxi (20 November 2023). \"Ghost Marriages Under Scrutiny in East China After Teen's Death\". Sixth Tone.",
         "source_type": "News article",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -543,13 +507,11 @@
     "article_title": "Disappearance of Larry Griffin",
     "claim_text": "All charges were subsequently dropped and the case officially remains unsolved. Fitzgerald later claimed that he had changed his testimony under duress from the villagers, and reiterated that they had been involved in Griffin's disappearance.",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "19",
         "source_title": "CSÍ The Missing Postman Part Three",
         "source_url": "https://www.youtube.com/watch?v=9_KyFmjp2c8",
-        "source_citation": "“CSÍ The Missing Postman Part Three.” YouTube, uploaded by joekilgobinet, 19 Sept. 2009, www.youtube.com/watch?v=9_KyFmjp2c8.",
         "source_type": "",
         "source_access": "full access",
         "date_accessed": "2026-10-29",
@@ -572,13 +534,11 @@
     "article_title": "Christianity in Africa",
     "claim_text": "Restrictions on church building and demolition of churches in Egypt, along with occasional persecutions such as during the reign of al-Hakim (996–1021), put additional pressure on Copts in Egypt",
     "origin": "organic sample",
-    "origin_basis": "reviewer",
     "annotations": [
       {
         "annotation_id": "20",
         "source_title": "World Directory of Minorities and Indigenous Peoples - Egypt : Copts of Egypt",
         "source_url": "https://www.refworld.org/reference/countryrep/mrgi/2017/121736",
-        "source_citation": "Refugees, United Nations High Commissioner for. \"Copts of Egypt\". Refworld. Retrieved 2020-06-15.",
         "source_type": "report",
         "source_access": "full acccess",
         "date_accessed": "2026-10-29",
@@ -602,7 +562,6 @@
         "annotation_id": "21",
         "source_title": "Egypt and Syria in the Fatimid, Ayyubid and Mamluk Eras IV:",
         "source_url": "https://books.google.com.ng/books?id=Sk6tAUL5ZWYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false",
-        "source_citation": "Brett, Michael (2005). \"Population and Conversion to Islam in Egypt in the Mediaeval Period\". In Vermeulen, Urbain; Steenbergen, J. Van (eds.). Egypt and Syria in the Fatimid, Ayyubid and Mamluk Eras IV: Proceedings of the 9th and 10th International Colloquium Organized at the Katholieke Universiteit Leuven in May 2000 and May 2001. Peeters. pp. 1–32. ISBN 978-90-429-1524-4.",
         "source_type": "Book",
         "source_access": "full access",
         "date_accessed": "2026-10-30",
@@ -625,6 +584,66 @@
           "Missing evidence"
         ],
         "rationale": "The source documents the persecution of Christians under al-Hakim in the early eleventh century and restrictions on church reconstruction, supporting the historical persecution and church-building restriction aspects of the claim. However, the source evidence provided does not establish the specific assertion that churches were demolished in Egypt. Therefore, the claim is partially supported by the cited source."
+      }
+    ]
+  },
+  {
+    "claim_id": "21",
+    "article_title": "Asroworld Festival crowd crush",
+    "claim_text": "Nike announced the indefinite postponement of its early-2022 Air Max 1 x Cactus Jack footwear collaboration launch with Scott in an email to users of its SNKRS app on November 15 out of respect for the victims.",
+    "origin": "organic sample",
+    "annotations": [
+      {
+        "annotation_id": "22",
+        "source_title": "Nike delays Travis Scott sneaker release after concert deaths",
+        "source_url": "https://adage.com/article/marketing-news-strategy/nike-delays-travis-scott-sneaker-release-after-astroworld/2380696",
+        "source_type": "News article",
+        "source_access": "Paywalled",
+        "date_accessed": "2026-11-1",
+        "evidence": [],
+        "verdict": "Unable to evaluate",
+        "failure_type": [],
+        "rationale": "The cited article is paywalled, and its full text could not be accessed, so it was not possible to check whether it supports the claim. This verdict reflects a limit on access, not a finding about the claim’s accuracy or the source’s reliability."
+      }
+    ]
+  },
+  {
+    "claim_id": "22",
+    "article_title": "Economic policy of the Obama administration",
+    "claim_text": "The cumulative changes in several economic variables from the start of his tenure in January 2009 to late 2016 were: Stock markets +180%; Corporate profits +112%; Auto sales +85%; Home prices +24%; Real GDP +15%; Number of jobs +8%; and number of Americans without health insurance -39%. While the annual federal deficit was down 58%, the national debt was up 88%",
+    "origin": "organic sample",
+    "annotations": [
+      {
+        "annotation_id": "23",
+        "source_title": "Effort to Move on Minimum Wage Bill Falters in Senate",
+        "source_url": "https://www.nytimes.com/2007/01/25/us/politics/25wage.html?pagewanted=all",
+        "source_type": "News article",
+        "source_access": "Paywalled",
+        "date_accessed": "2026-11-1",
+        "evidence": [],
+        "verdict": "Unable to evaluate",
+        "failure_type": [],
+        "rationale": "The cited article is paywalled, and its full text could not be accessed, so it was not possible to check whether it supports the claim. This verdict reflects a limit on access, not a finding about the claim’s accuracy or the source’s reliability."
+      }
+    ]
+  },
+  {
+    "claim_id": "23",
+    "article_title": "Economic policy of the Obama administration",
+    "claim_text": "Obama favored the increase in the federal minimum wage from $5.15 an hour to $7.25, and he voted to end the filibuster against a bill to accomplish that.",
+    "origin": "organic sample",
+    "annotations": [
+      {
+        "annotation_id": "24",
+        "source_title": "",
+        "source_url": "https://www.nytimes.com/2017/01/03/opinion/2016-in-charts-and-can-trump-deliver-in-2017.html",
+        "source_type": "News article",
+        "source_access": "Paywalled",
+        "date_accessed": "2026-11-1",
+        "evidence": [],
+        "verdict": "Unable to evaluate",
+        "failure_type": [],
+        "rationale": "The cited article is paywalled, and its full text could not be accessed, so it was not possible to check whether it supports the claim. This verdict reflects a limit on access, not a finding about the claim’s accuracy or the source’s reliability."
       }
     ]
   }
